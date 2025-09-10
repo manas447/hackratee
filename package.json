@@ -1,0 +1,35 @@
+{
+  "name": "hackratee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manas447/hackratee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manas447/hackratee/issues"
+  },
+  "homepage": "https://github.com/manas447/hackratee#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "framer-motion": "^12.23.12",
+    "lucide-react": "^0.543.0",
+    "openai": "^5.20.1",
+    "recharts": "^3.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13"
+  },
+  "description": ""
+}
